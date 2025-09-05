@@ -2,12 +2,19 @@
 
 Welcome! This is a community project to preserve type-in programs from Atari 8-bit books and magazines. The goal is to make these programs runnable again and easy to access.
 
+## A quick note before you dive in
+
+Thanks for stopping by! This project is still in its early days. I recently came across two other sites that already host some Atari type-in content, and I’d like to bring that material together here before opening things up further. In the meantime, things may look a bit sparse. I really appreciate your patience while I prepare a more complete starting point.
+
+
 ## How it Works
 
-- Each program comes from a printed source like a magazine or book.
-- Contributors can pick a program, type it in, test it in an emulator, and fix any errors.
-- Once a program works, it’s added to the repository along with a link in the table below.
-- We keep track of the original author whenever possible.
+1. Each program starts from a printed source such as a magazine or book.  
+2. A contributor selects a program to work on.  
+3. The program is typed in (or errors from an OCR version are corrected).  
+4. The program is tested in an emulator or on a real Atari 8-bit computer.  
+5. Once it runs correctly, the program is added to the repository along with a link in the table below.  
+
 
 ## Program Table
 
