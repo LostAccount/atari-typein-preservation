@@ -9,11 +9,37 @@ Thanks for stopping by! This project is still in its early days. I recently came
 
 ## How it Works
 
-1. Each program starts from a printed source such as a magazine or book.  
-2. A contributor selects a program to work on.  
-3. The program is typed in (or errors from an OCR version are corrected).  
-4. The program is tested in an emulator or on a real Atari 8-bit computer.  
-5. Once it runs correctly, the program is added to the repository along with a link in the table below.  
+1. **Choose a Program**: Each program comes from a printed source such as a magazine or book. A link to the scan or OCR text will be provided on the GitHub Projects page (link coming soon). Contributors select a program to work on from this list.
+
+2. **Type or Correct the Program**: If an OCR version exists, it should be corrected; if only a scan is available, type the program in from scratch.
+
+3. **Test the Program**: Run the program in an emulator (e.g., Altirra for Windows, Atari800 for Linux/macOS) or on a real Atari 8-bit computer. Default emulator settings should suffice.
+
+4. **Fix Errors and Verify**: Continue correcting until the program runs as intended, which is considered "Verified." A column will be available on the Projects page to identify this status.
+
+5. **Submit Your Program**: Send the completed executable or source file to the project maintainer via a secure method (e.g., cloud upload link or email). To keep submissions organized, place each program in its own folder named after the source (e.g., magazine and issue or book title), and include the main program file inside (e.g., `.BAS` for BASIC programs). Only working programs should be submitted.
+
+6. **Add to Repository**: The maintainer adds the verified program to the repository and links it in the table on the Projects page.
+
+
+---
+
+## Contributing (WIP)
+
+To keep things simple and safe for everyone, contributors should follow this workflow:
+
+1. **Pick a Program**: Select a program to work on from the GitHub Projects board (link coming soon). Mark it as "In Progress" if possible to avoid duplicate work.
+
+2. **Work Locally**: Download the scan or OCR version to your computer. Type in or correct the program and test it in an emulator or on real Atari hardware.
+
+3. **Send Your Completed Program**: Share the working program with the project maintainer (e.g., cloud upload link or email).
+
+4. **Verification & Linking**: The maintainer will check that the program runs correctly, add it to the repository, and link it in the table on the Projects board. 
+
+This workflow keeps contributions organized, ensures only working programs are added, and lets you participate without needing advanced GitHub knowledge.
+
+
+
 
 
 ## Program Table
