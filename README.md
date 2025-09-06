@@ -51,13 +51,3 @@ This table provides an example of how type-in programs are tracked, their source
 | Yars           | ANTIC Magazine, May 1984    | 12-14  | In Progress  | @username1   | HSW                       | antic-1984-05                   | https://example.com/antic-1984  | N/A               |
 | Pong           | ANALOG Magazine, Dec 1982   | 5-7    | Done         | @username2   | Al Alcorn                 | analog-1982-12                  | N/A                             | repo/Pong.bas     |
 | Breakout       | ANTIC Magazine, Mar 1983    | 8-10   | Not Started  | @username3   | Wozniak                   | antic-1983-03                   | https://another-source.com      | N/A               |
-
-
-
-## How to Contribute
-
-1. Pick a program from the table marked **Not Started**.
-2. Copy it from an OCRed source (like [archive.org](https://archive.org)).
-3. Type it into an emulator and make sure it works.
-4. Upload the working file to the repo.
-5. Update the table with your status and file link.
