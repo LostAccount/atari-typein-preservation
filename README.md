@@ -4,7 +4,7 @@ Welcome! This is a community project to preserve type-in programs from Atari 8-b
 
 ## A quick note before you dive in
 
-Thanks for stopping by! This project is still in its early days. I recently came across two other sites that already host some Atari type-in content, and I’d like to bring that material together here before opening things up further. In the meantime, things may look a bit sparse. I really appreciate your patience while I prepare a more complete starting point.
+This project is still in its early days. I recently came across other sites that already host some Atari type-in content, and I’d like to bring that material together here before opening things up further. In the meantime, things may look a bit sparse. I really appreciate your patience while I prepare a more complete starting point.
 
 
 ## How it Works
